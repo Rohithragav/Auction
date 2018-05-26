@@ -22,5 +22,8 @@ class Item
 	{
 		# code...
 	}
+	public function sellItem($seller){
+	#seller selling xyz item
+	}
 }
 ?>
